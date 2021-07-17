@@ -8,8 +8,7 @@ This is a simple matrix and primes library, that is built to have a similar inte
 4) src: This folder has all the source files at one place.
 5) build: This folder has the necessary files which are required to support the use of google tests, basically gtest library and gtest related documents.
 Yeah, that's it!!
-## Happy Coding ##
-
+## Happy Coding
 
 
 
