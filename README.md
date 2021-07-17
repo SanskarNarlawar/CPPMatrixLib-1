@@ -7,8 +7,8 @@ This is a simple matrix and primes library, that is built to have a similar inte
 3) test: This folder contains the tests written using the frame work of google tests to check the working of all the functions in the library.
 4) src: This folder has all the source files at one place.
 5) build: This folder has the necessary files which are required to support the use of google tests, basically gtest library and gtest related documents.
-Yeah, that's it!!
-## Happy Coding
+Yeah, that's it. 
+Happy Coding!!
 
 
 
